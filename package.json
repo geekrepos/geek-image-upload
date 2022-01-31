@@ -1,0 +1,19 @@
+{
+  "name": "geek-image-upload",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekrepos/geek-image-upload.git"
+  },
+  "author": "Avinash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekrepos/geek-image-upload/issues"
+  },
+  "homepage": "https://github.com/geekrepos/geek-image-upload#readme"
+}
